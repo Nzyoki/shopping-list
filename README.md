@@ -1,4 +1,6 @@
 Shopping List
+
+
 -this is an application for an interactive shopping list,that shows the usage of HTML, JavaScript and CSS.
 -Implementation of DOM(Document Object Manipulation) is also used in to allow adding,marking items as purchased and to clear items
 -HTML is used to structure the webpade
